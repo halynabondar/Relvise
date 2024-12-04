@@ -18,8 +18,14 @@
 ## 🌟 Key Features
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>Clean and organized code structure.</li>
+  <li>Cross-browser compatibility.</li>
 </ul>
+
+## 💻 Setup Instructions
+
+<ol>
+  <li>Clone the repository: git clone https://github.com/username/project.git
+</li>
+  <li>Open the "index.html" file in your browser.</li>
+</ol>
