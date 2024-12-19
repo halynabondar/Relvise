@@ -28,3 +28,7 @@
 </li>
   <li>Open the "index.html" file in your browser.</li>
 </ol>
+
+## Screenshots
+
+<img src="img/screencapture.png" alt="screenshot">
